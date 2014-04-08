@@ -1,5 +1,8 @@
-LoongShadow
+LoongShadow Mouse
 ===========
+
+This'll be a modification to loongshagow point in the other direction of mouse, to create a cool effect.
+
 
 A jQuery plugin to create long shadows on elements
 
